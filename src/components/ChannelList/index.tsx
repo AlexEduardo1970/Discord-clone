@@ -13,10 +13,10 @@ const ChannelList: React.FC = () => {
             </Category>
 
             <ChannelButton channelName="chat-livre" />   
-            <ChannelButton channelName="trabalho" />   
-            <ChannelButton channelName="escola" />   
-            <ChannelButton channelName="games" />   
-            <ChannelButton channelName="animes" />
+            <ChannelButton channelName="chat-1" />   
+            <ChannelButton channelName="chat-2" />   
+            <ChannelButton channelName="chat-3" />   
+            <ChannelButton channelName="chat-4" />
              
         </Container>
     )
